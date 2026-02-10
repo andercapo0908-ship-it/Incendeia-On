@@ -1,0 +1,8 @@
+{
+  "name": "Incendeia Capoeira ON",
+  "description": "Uma plataforma premium para praticantes de Capoeira, com videoaulas, lives, fórum da comunidade e gestão administrativa, inspirada nas raízes amazônicas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
